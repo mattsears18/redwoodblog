@@ -1,3 +1,4 @@
+Finished tutorial #1
 # Redwood
 
 > **NOTICE:** RedwoodJS is very close to a stable version 1.0. In the last two years,
